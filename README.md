@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Fractional%20CTO%20%26%20Product%20Architect&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Fractional%20CTO%20and%20Product%20Architect&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <a href="https://theo-dgl.xyz">
