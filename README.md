@@ -1,7 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1
-  61b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3
-  &fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn&lines=Tech+Lead+%26+consultan
-  t;Embedded,+mobile,+cloud,+teams;10+ans+%C3%A0+livrer+des+produits." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn&lines=Tech+Lead+%26+consultant;Embedded,+mobile,+cloud,+teams;10+ans+%C3%A0+livrer+des+produits." />
+
+<br/>
+
+Tech Lead et consultant. J'aide les équipes à clarifier leur architecture et les fondateurs à prendre des décisions techniques sans bullshit.
+
+10 ans à construire des produits : embarqué, mobile, cloud, et gestion d'équipes (3 à 10 devs). Passé par des startups, des studios, et de l'accompagnement en incubateur.
+
+J'aime trouver le bon levier plutôt que d'empiler de la complexité.
+
 
 
 <br/>
