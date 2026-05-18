@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn&lines=From+code+to+strategy;I+bridge+your+vision+and+your+systems;Ship+fast.+Learn+fast.+Iterate." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1
+  61b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3
+  &fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn&lines=Tech+Lead+%26+consultan
+  t;Embedded,+mobile,+cloud,+teams;10+ans+%C3%A0+livrer+des+produits." />
 
 
 <br/>
