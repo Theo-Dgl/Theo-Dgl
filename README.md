@@ -1,10 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=180&section=header&text=Theo%20Dimeglio&fontSize=42&fontColor=e6edf3&fontAlignY=35&descColor=8b949e&descAlignY=55&animation=fadeIn&lines=From+code+to+strategy;I+bridge+your+vision+and+your+systems;Ship+fast.+Learn+fast.+Iterate." />
 
-<p align="center">
-  <a href="https://theo-dgl.xyz">
-    <img src="https://readme-typing-svg.demolab.com/?lines=From+code+to+strategy;I+bridge+your+vision+and+your+systems;Ship+fast.+Learn+fast.+Iterate.&font=Fira+Code&size=18&color=58a6ff&center=true&width=500&height=45&duration=3000&pause=1500" alt="Typing SVG" />
-  </a>
-</p>
 
 <br/>
 
